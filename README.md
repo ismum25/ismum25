@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/contribution.svg" width="900" alt="Yearly contribution grid of glowing cockpit-style buttons" />
+  <img src="assets/contribution.svg" width="900" alt="Yearly contribution grid of glowing cockpit-style buttons with a five-level Less–More legend" />
 </p>
